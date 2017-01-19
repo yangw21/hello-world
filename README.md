@@ -1,2 +1,2 @@
 # hello-world
-Hello, GitHub! 
+Ah,nothing to write.
